@@ -22,7 +22,7 @@ Bajo la asesoria del Ingeniero PhD. Jhon Jairo Corredor Franco:
   <img src="https://ingenieria.javeriana.edu.co/documents/1600952/7964921/jhon_corredor.jpg/09bcf259-268f-1de4-480a-618e39b6db46?version=1.0&t=1675114456553&download=true">
 </p>
 
-Este proyecto fue realizado utilizando fuentes de datos abiertos pertenecientes al municipio de gaudalajara de buga y Acacias, los cuales pueden ser encontrados en los siguientes enlaces: 
+Este Parcial fue realizado utilizando fuentes de datos abiertos pertenecientes al municipio de gaudalajara de buga y Acacias, los cuales pueden ser encontrados en los siguientes enlaces: 
 
  "https://www.datos.gov.co/resource/vskz-jk5x.csv" #link bases de datos nacimientos en Buga
  "https://www.datos.gov.co/resource/7ifb-wrqs.csv" #link bases de datos nacimientos en Acacias
